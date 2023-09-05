@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577984789779",
+    "project_id": "yatrikan-38d3b",
+    "storage_bucket": "yatrikan-38d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577984789779:android:e359ed05c8ca2fedaa6ee6",
+        "android_client_info": {
+          "package_name": "com.example.photo_snap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577984789779-2f9iju5tersrk5qr8dennsgem9ql8gni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-1VcQ4rkdyqLC60BahSUiVOoACrdIXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577984789779-2f9iju5tersrk5qr8dennsgem9ql8gni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
